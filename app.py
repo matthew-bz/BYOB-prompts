@@ -13,8 +13,8 @@ def generate_prompt():
 	prompt_list = df['Card'].tolist()
 	#print(prompt_list)
 	def pick_prompt():
-    	return random.choice(prompt_list)
-    return pick_prompt()
+    return random.choice(prompt_list)
+return pick_prompt()
 
 st.title("BYOBook: prompt generator")
 st.write("Prompts for the game BYOBook")
