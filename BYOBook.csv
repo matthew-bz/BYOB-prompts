@@ -1,87 +1,281 @@
-,
-No.,Card
-1,The next great holiday: ______ Day
-2,A name for a cat
-3,A line from a passive-aggresive note
-4,Part of a half-time pep talk to a losing sports team
-5,Text from a sitcom script (e.g. Seinfield)
-6,Code words passed between secret agents to confirm their identities
-7,Something a neighbour borrowed and never returned
-8,The subtitle of a new Fast & Furious film
-9,A line from a movie review
-10,Where do babies come from?
-11,New company directive: all employees must do this twice a week
-12,Something written on an IOU
-13,"A sentence that's funnier when you replace one word with ""pants"""
-14,Text on a tombstone
-15,The secret password to a magical cave
-16,The title of an unpublished Stephen King novel
-17,Text on a baby announcement
-18,A one-liner from an action movie
-19,The last line of a haiku (5 syllables)
-20,Something we're all thinking but are too afraid to say
-21,The most important ingredient in a magic potion
-22,The last thing you want to hear on a first date
-23,A pick-up line
-24,Lyrics from a hip hop (e.g. Jay-Z)
-25,A universal truth
-26,An unusual murder weapon in a mystery novel
-27,Overhead in a dream
-28,A phrase you wouldn't want to hear your grandparents say
-29,Spoiler alert:
-30,A line from a science textbook
-31,Something you'll lie awake thinking about tonight
-32,Part of a note passed between desks in elementary school
-33,The moment a bad omen appears in a horror novel
-34,The repeated lyrics in a techno dance song
-35,Overheard at a garage sale
-36,The best part of a vacation
-37,Famous last words
-38,The third-place prize on a game show
-39,An item in a police report
-40,Overheard on a CB radio channel where truckers are talking
-41,The humble beginnings of a certifiable genius
-42,Lyrics from a punk rock song (e.g. Ramones)
-43,A statement likely to be challenged if presented as fact
-44,A phrase that could inspire revolt
-45,
-46,
-47,
-48,
-49,
-50,
-51,
-52,
-53,
-54,
-55,
-56,
-57,
-58,
-59,
-60,
-61,
-62,
-63,
-64,
-65,
-66,
-67,
-68,
-69,
-70,
-71,
-72,
-73,
-74,
-75,
-76,
-77,
-78,
-79,
-80,
-81,
-82,
-83,
-84,
-85,
+,,
+No.,Card,Category
+1,The next great holiday: ______ Day,Regular
+2,A name for a cat,Regular
+3,A line from a passive-aggresive note,Regular
+4,Part of a half-time pep talk to a losing sports team,Regular
+5,Text from a sitcom script (e.g. Seinfield),Regular
+6,Code words passed between secret agents to confirm their identities,Regular
+7,Something a neighbour borrowed and never returned,Regular
+8,The subtitle of a new Fast & Furious film,Regular
+9,A line from a movie review,Regular
+10,Where do babies come from?,Regular
+11,New company directive: all employees must do this twice a week,Regular
+12,Something written on an IOU,Regular
+13,"A sentence that's funnier when you replace one word with ""pants""",Regular
+14,Text on a tombstone,Regular
+15,The secret password to a magical cave,Regular
+16,The title of an unpublished Stephen King novel,Regular
+17,Text on a baby announcement,Regular
+18,A one-liner from an action movie,Regular
+19,The last line of a haiku (5 syllables),Regular
+20,Something we're all thinking but are too afraid to say,Regular
+21,The most important ingredient in a magic potion,Regular
+22,The last thing you want to hear on a first date,Regular
+23,A pick-up line,Regular
+24,Lyrics from a hip hop (e.g. Jay-Z),Regular
+25,A universal truth,Regular
+26,An unusual murder weapon in a mystery novel,Regular
+27,Overhead in a dream,Regular
+28,A phrase you wouldn't want to hear your grandparents say,Regular
+29,Spoiler alert:,Regular
+30,A line from a science textbook,Regular
+31,Something you'll lie awake thinking about tonight,Regular
+32,Part of a note passed between desks in elementary school,Regular
+33,The moment a bad omen appears in a horror novel,Regular
+34,The repeated lyrics in a techno dance song,Regular
+35,Overheard at a garage sale,Regular
+36,The best part of a vacation,Regular
+37,Famous last words,Regular
+38,The third-place prize on a game show,Regular
+39,An item in a police report,Regular
+40,Overheard on a CB radio channel where truckers are talking,Regular
+41,The humble beginnings of a certifiable genius,Regular
+42,Lyrics from a punk rock song (e.g. Ramones),Regular
+43,A statement likely to be challenged if presented as fact,Regular
+44,A phrase that could inspire revolt,Regular
+45,The moment in a mystery novel when an important clue is found,Regular
+46,The moment in a western when gunfighters have a showdown,Regular
+47,An item on a resume,Regular
+48,Lyrics from a lullaby (e.g. Rock-a-bye Baby),Regular
+49,A euphemism for going to the bathroom,Regular
+50,Part of a love letter,Regular
+51,Text form a cookbook,Regular
+52,Overheard while politicians are debating,Regular
+53,A line from a politician's biography,Regular
+54,Lyrics from a blules song (e.g. B.B. King),Regular
+55,A hero's catchphrase,Regular
+56,Text on a product's warning label,Regular
+57,The moment in a romance novel when love blooms,Regular
+58,The moment in a sci-fi novel when a robot behaves unexpectedly,Regular
+59,Something spoken by an animal in a fairy tale,Regular
+60,Something that deserves applause,Regular
+61,A doctor's note on a patient's chart,Regular
+62,The moment in a fantasy novel when the hero is chosen,Regular
+63,Something a winner would say,Regular
+64,Part of an online restaurant review,Regular
+65,A caption in a fashion magazine,Regular
+66,The name of a magazine or website for kids,Regular
+67,A line from a celebrity's biography,Regular
+68,The name of a superhero,Regular
+69,Part of a fortune teller's prophecy,Regular
+70,A professional wrestler's nickname,Regular
+71,A political slogan,Regular
+72,A line in an eviction notice,Regular
+73,Part of a big fight scene in a superhero story,Regular
+74,Something you're surprised to find in a coat pocket,Regular
+75,A bit of an urban legend,Regular
+76,A message in a bottle,Regular
+77,A stage direction in a comedic play,Regular
+78,A quote someone would use as an email signature,Regular
+79,The words that bring an end to an argument,Regular
+80,Part of the tearful renunion in a romance novel,Regular
+81,A menu item at a fancy restaurant,Regular
+82,Lyrics from a power ballad (e.g. Journey),Regular
+83,Strange first words for a child,Regular
+84,Something you could hear Arnold Schwarzenegger say,Regular
+85,How you know it's the best party ever,Regular
+86,The award-winning moment in a dramatic film,Regular
+87,The moment in a mystery novel when the killer is unmasked,Regular
+88,Step three in an evil plan to take over the world,Regular
+89,The name of a new party game,Regular
+90,A line on a worker's performance evaluation,Regular
+91,Something a hypnotist would repeat to induce a trance,Regular
+92,The description of the villian in an adventure film,Regular
+93,The name of a store that sells almost everything,Regular
+94,An unusual item on an airplane safety card,Regular
+95,A good warning to children,Regular
+96,A line from a horoscope,Regular
+97,A line that should be on the back cover to sell this book,Regular
+98,The name of a city in a fantasy novel,Regular
+99,Fine print on a long contract,Regular
+100,A stage direction I a dramatic play,Regular
+101,This just in: A line of breaking news!,Regular
+102,Lyrics from a holiday song,Regular
+103,______ is my middle name,Regular
+104,The name of a specialized clothing store,Regular
+105,The name of a trendy mixed drink,Regular
+106,This is the way the world ends,Regular
+107,A reaction to discovering treasure,Regular
+108,A passage from a religious text,Regular
+109,Part of a royal proclamation,Regular
+110,Words tattooed on someone's body,Regular
+111,A euphemism for going to bed,Regular
+112,A sentence that's twice as dramatic when read slowly,Regular
+113,Part of a creation myth,Regular
+114,The punchline of a joke,Regular
+115,"Words that a zombie would groan after saying ""brains"" fifty times",Regular
+116,The title of a post-apocalyptic sci-fi novel,Regular
+117,The slogan on a bumper sticker,Regular
+118,Something yelled at a broken machine,Regular
+119,Something that demands an apology,Regular
+120,"In some countries, this is illegal",Regular
+121,The title of a murder mystery novel,Regular
+122,The name of an all-purpose household cleaner,Regular
+123,A phrase that would be extra creepy if you whisper it,Regular
+124,Part of an online product review,Regular
+125,The moment in a fantasy novel when the quest is completed,Regular
+126,The moral of the story is...,Regular
+127,A ridiculous tabloid headline,Regular
+128,Text on a motivational poster,Regular
+129,The name of a health and beauty product,Regular
+130,The most emotionial moment in an opera,Regular
+131,The moment in a fairy tale when someone is cursed,Regular
+132,Overheard at a sporting event,Regular
+133,The moment in a romance novel when hearts are broken,Regular
+134,A real cliffhanger,Regular
+135,Part of a weeding toast,Regular
+136,Something written in a warranty,Regular
+137,Part of a piece of email spam,Regular
+138,The yoga instructor makes us chant this mantra over and over again,Regular
+139,Text from a nature guide,Regular
+140,The part in a children's film where a kid outsmarts an adult,Regular
+141,The moment in a fancasy novel when the quest is begun,Regular
+142,The title of a bubbly cop movie,Regular
+143,A bit of bad news,Regular
+144,Something you can't believe you forgot until just now,Regular
+145,Text from a travel guide,Regular
+146,The name of an entertainment magazine or website,Regular
+147,The first thing you think when you wake up,Regular
+148,A sentence in a fortune cookie,Regular
+149,Clear evidence that it's time to call the docotr,Regular
+150,The title of a long-lost thriller by Alfred Hitchcock,Regular
+151,Something shouted at a fleeing criminal,Regular
+152,A name for a dog,Regular
+153,The moment in a horror novel before someone goes missing,Regular
+154,Part of a driver's education manual,Regular
+155,An error message on a computer,Regular
+156,Text on a birthday card,Regular
+157,A phrase you could see on a T-shirt,Regular
+158,The title of a romance novel,Regular
+159,The name of a fast food restaurant,Regular
+160,Part of a superhero's origin story,Regular
+161,An alien's first words to humankind,Regular
+162,Something the governmnet doesn't want people to know,Regular
+163,A line from a concert review,Regular
+164,Words from a magic spell,Regular
+165,We'd all be in trouble if this were true,Regular
+166,Words on a welcome mat,Regular
+167,Something shouted at another driver in traffic,Regular
+168,A rejected catchphrase for a character in a sitcom,Regular
+169,A bit of good news,Regular
+170,The name of an expensive luxury car,Regular
+171,An excuse for forgetting a birthday,Regular
+172,A moment in a propaganda film,Regular
+173,A line from a teenager's diary,Regular
+174,The moment in a sci-fi when a new world is discovered,Regular
+175,Overheard at the zoo,Regular
+176,A town slogan,Regular
+177,Something used as money in a post-apocalyptic society,Regular
+178,Don't open an email with this subject line,Regular
+179,Part of a letter home from summer camp,Regular
+180,Overheart while toddlers are playing with toys,Regular
+181,The name of a candy bar,Regular
+182,The name of a television sitcom,Regular
+183,An unexpected line in a poem,Regular
+184,Text from a soap opera script (e.g. General Hospital),Regular
+185,A curious footnote on a tax form,Regular
+186,A celebrity's Twitter update,Regular
+187,The name of a sports car with a huge engine,Regular
+188,"A line that's sarcastic when you replace a name with ""Captain Obvious""",Regular
+189,A curious title for a doctoral thesis,Regular
+190,A line from a manifesto,Regular
+191,Text from a book about conspiracy theories,Regular
+192,A menu item at a greasy burger joint,Regular
+193,The title of a self-help book,Regular
+194,Advice for graduating seniors,Regular
+195,Naration from a nature documentary about animals,Regular
+196,Lyrics from a country-western song (e.g. Johnny Cash),Regular
+197,Something it would be irritating for a parrot to repeat,Regular
+198,The name of a legal drama on television,Regular
+199,The name of a craft beer,Regular
+200,Words scribbled on a sticky note at the office,Regular
+201,The name of a popular indie band,Regular
+202,A line of grafitti on a building,Regular
+203,Something shouted by an athlete when they score a point,Regular
+204,The meaning of life is...,Regular
+205,The name of a battleship,Regular
+206,An excuse for being late,Regular
+207,A bit of surprising backstory for a supporting character,Bonus: Fanfic
+208,A line from a sick fic,Bonus: Fanfic
+209,A line leading up to a major character death,Bonus: Fanfic
+210,The phrase that makes you stop reading a story,Bonus: Fanfic
+211,Your reaction when an OC is the main character,Bonus: Fanfic
+212,The title of a prep school or college AU,Bonus: Fanfic
+213,A line of angst,Bonus: Fanfic
+214,A line of fluff,Bonus: Fanfic
+215,A supporting character's opinion on your OTP,Bonus: Fanfic
+216,Description of a Mary Sue/Gary Stu,Bonus: Fanfic
+217,Something you shout when you discover a story is a WIP,Bonus: Fanfic
+218,Your response when someone asks what you're reading,Bonus: Fanfic
+219,A tag in an AU (Picker selects the genre),Bonus: Fanfic
+220,An unusual tag,Bonus: Fanfic
+221,The title of a crossover (Readers choose their own fandoms),Bonus: Fanfic
+222,Dialogue from a first kiss or first time,Bonus: Fanfic
+223,Your reaction when the LJ link is dead and you can't find the author on AO3,Bonus: Fanfic
+224,The first clue you're reading crackfic,Bonus: Fanfic
+225,The name of an inn in a Dungenons & Dragons campaign,Bonus: Nerdcore
+226,Overheard at a LARP (a live-action role-playing event),Bonus: Nerdcore
+227,The outcome of a magic spell,Bonus: Nerdcore
+228,Something you could hear the Halo announcer say,Bonus: Nerdcore
+229,An instruction in a board game,Bonus: Nerdcore
+230,Something you could hear Mario say,Bonus: Nerdcore
+231,The name of the next big indie game,Bonus: Nerdcore
+232,Lyrics from a nerdcore hip hop song (e.g. MC Frontalot),Bonus: Nerdcore
+233,A phrase used during first contact with aliens,Bonus: Nerdcore
+234,Dialogue from a badly translated Japanese role-playing game,Bonus: Nerdcore
+235,A taunt in a fighting game,Bonus: Nerdcore
+236,Something you would yell after winning a pong match,Bonus: Nerdcore
+237,The name of the latest file-sharing service,Bonus: Nerdcore
+238,Proverbial wisdom from a Jedi,Bonus: Nerdcore
+239,A comic book supervillian's justification for destroying the world,Bonus: Nerdcore
+240,An event you'd time travel in order to change,Bonus: Nerdcore
+241,The subtitle of a too-serious war game (e.g. Guns of the Patriots),Bonus: Nerdcore
+242,New addition to Oblique Strategies (Jo),Our own
+243,The subtitle of a B rated film (Jo),Our own
+244,Things Peter Gabriel would say on a phone call to Tony Banks (Matt & Jo),Our own
+245,Miffy ______ (eg. goes to the zoo) [Matt],Our own
+246,,
+247,,
+248,,
+249,,
+250,,
+251,,
+252,,
+253,,
+254,,
+255,,
+256,,
+257,,
+258,,
+259,,
+260,,
+261,,
+262,,
+263,,
+264,,
+265,,
+266,,
+267,,
+268,,
+269,,
+270,,
+271,,
+272,,
+273,,
+274,,
+275,,
+276,,
+277,,
+278,,
+279,,
