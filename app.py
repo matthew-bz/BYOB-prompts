@@ -4,14 +4,15 @@ import streamlit as st
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('BYOBook.csv', sep=",", header=1)
+    df = pd.read_csv('BYOBook.csv', sep=",", header=1)
+    return df.dropna(subset=['Card', 'Category'])
 
 df = load_data()
 
 st.title("BYOBook: prompt generator")
 st.write("Prompts for the game BYOBook")
 
-categories = ["All"] + sorted(df['Category'].dropna().unique().tolist())
+categories = ["All"] + sorted(df['Category'].unique().tolist())
 
 selected_category = st.selectbox("Select a Category", categories)
 
