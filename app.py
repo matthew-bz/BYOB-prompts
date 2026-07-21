@@ -16,11 +16,13 @@ def generate_prompt():
 		return random.choice(prompt_list)
 	return pick_prompt()
 
+df = pd.read_csv('BYOBook.csv', sep=',', header=1)
+
 st.title("BYOBook: prompt generator")
 st.write("Prompts for the game BYOBook")
 st.selectbox(
 	"Filter by game category",
-	options=df['Category'])
+	options = df['Category'])
 
 prompt = generate_prompt()
 st.info(f"{prompt}")
