@@ -22,7 +22,7 @@ st.title("BYOBook: prompt generator")
 st.write("Prompts for the game BYOBook")
 st.selectbox(
 	"Filter by game category",
-	options = df['Category'])
+	options = set(df['Category']))
 
 prompt = generate_prompt()
 st.info(f"{prompt}")
